@@ -3,6 +3,9 @@
 ## Project Description
 Welcome to **Celebrity Spy**, a web app designed to showcase the top 15 most followed celebrity accounts on a platform of your choice. Users can effortlessly access essential information about these celebrities, such as their profile images, names, platform handles, and the number of followers they currently have. As of August 18, 2023, this application keeps you in the loop about the most popular figures on social media.
 
+## Demo
+<img src="./images/demo.gif">
+
 ## Requirements and Specifications
 To ensure proper functionality, the following versions are recommended:
 
