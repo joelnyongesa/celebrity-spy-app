@@ -1,0 +1,110 @@
+{
+    "celebrities": [
+        {
+            "id": 1,
+            "name": "Elon Musk",
+            "twitterHandle": "@elonmusk",
+            "followers": 153200000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/391px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Barrack Obama",
+            "twitterHandle": "@BarackObama",
+            "followers": 131900000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/384px-President_Barack_Obama.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Justin Bieber",
+            "twitterHandle": "@justinbieber",
+            "followers": 111800000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Justin_Bieber_in_2015.jpg/336px-Justin_Bieber_in_2015.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Cristiano Ronaldo",
+            "twitterHandle": "@Cristiano",
+            "followers": 109300000,
+            "image": "https://media.gettyimages.com/id/1358485714/photo/cristiano-ronaldo-of-manchester-united-celebrates-after-scoring-his-sides-first-goal-from-the.jpg?s=612x612&w=0&k=20&c=c6StSA75G3Y-5dB5M7tZVAlnAO2klbHNNQ6zU3O_tQM="
+        },
+        {
+            "id": 5,
+            "name": "Rihanna",
+            "twitterHandle": "@rihanna",
+            "followers": 108200000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Rihanna_Fenty_2018.png/360px-Rihanna_Fenty_2018.png"
+        },
+        {
+            "id": 6,
+            "name": "Katy Perry",
+            "twitterHandle": "@katyperry",
+            "followers": 107200000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Katy_Perry_for_Vogue_Magazine%2C_2023.png/316px-Katy_Perry_for_Vogue_Magazine%2C_2023.png"
+        },
+        {
+            "id": 7,
+            "name": "Taylor Swift",
+            "twitterHandle": "@taylorswift13",
+            "followers": 94000000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png/337px-191125_Taylor_Swift_at_the_2019_American_Music_Awards_%28cropped%29.png"
+        },
+        {
+            "id": 8,
+            "name": "Narendra Modi",
+            "twitterHandle": "@narendramodi",
+            "followers": 91000000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png/405px-Official_Photograph_of_Prime_Minister_Narendra_Modi_Portrait.png"
+        },
+        {
+            "id": 9,
+            "name": "Donald Trump",
+            "twitterHandle": "@realDonaldTrump",
+            "followers": 86500000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/379px-Donald_Trump_official_portrait.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Lady Gaga",
+            "twitterHandle": "@ladygaga",
+            "followers": 83900000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/327px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg"
+        },
+        {
+            "id": 11,
+            "name": "YouTube",
+            "twitterHandle": "@YouTube",
+            "followers": 79100000,
+            "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/YouTube_homepage.png/480px-YouTube_homepage.png"
+        },
+        {
+            "id": 12,
+            "name": "NASA",
+            "twitterHandle": "@NASA",
+            "followers": 75900000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/480px-NASA_logo.svg.png"
+        },
+        {
+            "id": 13,
+            "name": "Elen DeGeneres",
+            "twitterHandle": "@EllenDeGeneres",
+            "followers": 75200000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Ellen_DeGeneres_2011.jpg/322px-Ellen_DeGeneres_2011.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Kim Kardashian",
+            "twitterHandle": "@KimKardashian",
+            "followers": 75000000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Kim_Kardashian_Vogue_2021.png/389px-Kim_Kardashian_Vogue_2021.png"
+        },
+        {
+            "id": 15,
+            "name": "Selena Gomez",
+            "twitterHandle": "@selenagomez",
+            "followers": 66600000,
+            "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Selena_Gomez_at_White_House.jpg/358px-Selena_Gomez_at_White_House.jpg"
+        }
+
+    ]
+}
