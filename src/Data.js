@@ -16,6 +16,7 @@ function Data(){
     }, [])
 
     // console.log(celebrity)
+    console.log(celebrities)
 
     return(
         <>
