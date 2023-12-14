@@ -10,7 +10,7 @@ function Data(){
     const [celebrities, setCelebrities] = useState([])
 
     useEffect(()=>{
-        fetch('http://localhost:8000/celebrities')
+        fetch('https://celebrity-spy-app.onrender.com/celebrities')
         .then(res => res.json())
         .then(data => setCelebrities(data))
     }, [])
